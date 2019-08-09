@@ -128,7 +128,7 @@ echo $ku"["$me"14"$ku"]"$i" SANTET ONLINE"
 echo $i"["$me"25"$i"]"$ku" EXIT"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
-read -p"Ôò¦ÔöÇ>> " pil
+read -p"Ôò¦ÔöÇ>> " pil NUYUL G
 
 if [ $pil = 1 ]
 then
